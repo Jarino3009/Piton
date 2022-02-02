@@ -1,0 +1,5 @@
+slovo = "patizon"
+zoznam = []
+for y in slovo:
+    zoznam.append(y)
+print(zoznam)
