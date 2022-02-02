@@ -5,4 +5,4 @@ for y in slovo:
 print(zoznam)
 
 #Marek Baňas
-#BAňas Marek
+#Baňas Marek
