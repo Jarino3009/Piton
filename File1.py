@@ -7,3 +7,4 @@ print(zoznam)
 #Marek Baňas
 #Baňas Marek
 #BaRek Maňrs
+#Rames Mrňrs
